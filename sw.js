@@ -1,7 +1,7 @@
 /* All-in-One Productivity App — offline cache (Phase 1).
    Caches the app shell so the PWA opens without a network connection.
    User data lives in localStorage on the device, never in this cache. */
-var CACHE = "aio-productivity-v3";
+var CACHE = "aio-productivity-v4";
 var CORE = [
   "./index.html",
   "./manifest.webmanifest",

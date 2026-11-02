@@ -1,0 +1,27 @@
+{
+  "background_color": "#f7f5f0",
+  "description": "Goals broken into small steps, with gentle reminders. Works fully offline.",
+  "dir": "rtl",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "lang": "fa",
+  "name": "All-in-One Productivity App",
+  "orientation": "portrait",
+  "scope": ".",
+  "short_name": "Productivity",
+  "start_url": ".",
+  "theme_color": "#4e7d64"
+}
